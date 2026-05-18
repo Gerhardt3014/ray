@@ -20,6 +20,7 @@
 | `test_cluster.py` | 测试任务是否分发到多节点 |
 | `parallel_compute.py` | CPU 密集型并行计算示例（质数统计） |
 | `docker_test.py` | Docker 集群测试脚本 |
+| `Ray学习计划.md` | 从部署到实战的 7 阶段学习计划（4-6 周） |
 
 ## 快速开始
 
